@@ -1,6 +1,6 @@
 {
   "name": "graboid",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Select a requested number of array items, but from a random position within the array. Useful for generative automata and programming.",
   "main": "index.js",
   "scripts": {
