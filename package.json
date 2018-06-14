@@ -1,0 +1,23 @@
+{
+  "name": "graboid",
+  "version": "1.0.0",
+  "description": "Select a requested number of array items, but from a random position within the array. Useful for generative automata and programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/graboid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/graboid/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/graboid#readme",
+  "dependencies": {
+    "random-inclusive": "^1.2.0"
+  }
+}
